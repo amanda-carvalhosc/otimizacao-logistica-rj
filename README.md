@@ -1,9 +1,7 @@
-
+# 🚚 Estudo de Caso Prático: Engenharia de Dados e Otimização Logística (Cenário Fictício)
 
 ![Dashboard de Logística](painel.png.PNG)
 
-
-# 🚚 Estudo de Caso Prático: Engenharia de Dados e Otimização Logística (Cenário Fictício)
 
 ## 📌 Visão Geral do Projeto
 Este repositório apresenta o desenvolvimento de um projeto focado em **aperfeiçoamento profissional e desenvolvimento de portfólio**, abordando desafios práticos de **Engenharia de Dados e Business Intelligence** na área de Cadeia de Suprimentos (Supply Chain) e Logística. O objetivo principal deste estudo de caso foi simular o recebimento de uma base de dados operacional bruta e inconsistente de uma filial de transportes no Rio de Janeiro, aplicar técnicas rigorosas de higienização via código Python (Pandas) e estruturar um painel executivo moderno para tomadas de decisão.
