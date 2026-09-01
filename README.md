@@ -1,3 +1,6 @@
+
+![Dashboard de Logística](painel.png.PNG)
+
 # 🚚 Estudo de Caso Prático: Engenharia de Dados e Otimização Logística (Cenário Fictício)
 
 ## 📌 Visão Geral do Projeto
