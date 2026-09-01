@@ -1,6 +1,6 @@
 # 🚚 Estudo de Caso Prático: Engenharia de Dados e Otimização Logística (Cenário Fictício)
 
-![Dashboard de Logística](painel.png)
+![Dashboard de Logística](https://github.com/amanda-carvalhosc/otimizacao-logistica-rj/blob/main/dashboard.png.PNG?raw=true)
 
 
 
